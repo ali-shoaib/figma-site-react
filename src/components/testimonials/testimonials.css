@@ -1,0 +1,51 @@
+.testimonials_section{
+    margin: 150px 0 0 0;
+}
+.testimonials_person img{
+    float: right;
+    border-radius: 8px;
+}
+.ring_img{
+    position: absolute;
+    right: -20px;
+    top: -19px;
+    z-index: -11;
+}
+.plus_img{
+    position: absolute;
+    top: 460px;
+    left: 146px;
+}
+.testimonials_heading{
+    font-family: fangsong;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0em;
+
+}
+.testimonials_section p{
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.person_edward{
+    display: block;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.founder{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0em;
+    text-align: left;
+}

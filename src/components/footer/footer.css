@@ -1,0 +1,44 @@
+.footer_links_logo{
+    position: relative;
+}
+.orange_logo{
+    position: absolute;
+    z-index: 111;
+    left: 10px;
+    top: 10px;
+}
+.footer_para{
+    color:#848484;
+    margin: 40px 85px 0 0;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    }
+.destinations{
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.countries p{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+.countries p:hover{
+    cursor: pointer;
+    color: #383838;
+}
+.footer_icons{
+    display: flex;
+    justify-content: space-evenly;
+}

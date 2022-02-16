@@ -1,0 +1,47 @@
+.nav_menus{
+    margin: 0 0 0 30px;
+}
+.nav_menus a{
+    text-decoration: none;
+    color: #B8BECD;
+}
+.nav_menus a:hover{
+    color: #202336;
+}
+.align_items_navbar{
+    align-items: center;
+}
+.btn_login{
+    width: 132px;
+    height: 45px;
+    border: 1px solid #FB8F1D;
+    color: #FB8F1D;
+    background: transparent;
+    border-radius: 8px;
+    margin-left: 30px;
+}
+.btn_login:hover{
+    color: #ffff;
+    background: #FB8F1D;
+}
+.btn_register{
+    width: 132px;
+    height: 45px;
+    background: #FB8F1D;
+    color: #ffff;
+    border: none;
+    border-radius: 8px;
+    margin-left: 20px;
+}
+.btn_register:hover{
+    background: #c76701;
+}
+.navbar_links_logo{
+    position: relative;
+}
+.orange_logo{
+    position: absolute;
+    z-index: 111;
+    right: 10px;
+    top: 10px;
+}

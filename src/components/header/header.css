@@ -1,0 +1,28 @@
+.art01{
+    width: 500px;
+    float: right;
+}
+.header_heading{
+    font-size: 64px;
+    font-family: fangsong;
+    font-weight: 700;
+}
+.text_holiday_finder{
+    font-size: 22px;
+    font-weight: 600;
+}
+.btn_reg{
+    width: 132px;
+    height: 45px;
+    background: #FB8F1D;
+    color: #ffff;
+    border: none;
+    border-radius: 8px;
+    margin: 20px 0 0 0;
+}
+.btn_reg:hover{
+    background: #c76701;
+}
+.select_option_color{
+    color: #4A4C53;
+}

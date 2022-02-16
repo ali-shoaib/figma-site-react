@@ -1,0 +1,39 @@
+.trending_section{
+    margin: 150px 0 150px 0;
+}
+.trending_section_heading{
+    font-size: 36px;
+    font-family: fangsong;
+    font-weight: 700;
+}
+.trending_card{
+    width: 25%;
+}
+.trending_card img{
+    width: 261px;
+    height: 300px;
+    border-radius: 8px;
+}
+.trending_card h2{
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+}
+.trending_card p{
+    width: 270px;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+}
+.trending_card span{
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: 0em;
+    color: #FB8F1D;
+}
